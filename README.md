@@ -46,7 +46,8 @@ This template is suitable for:
 
 ## Live Website
 
-🌐 https://srjwebsto.site.je
+🌐 [View Demo](https://hair-wig-templete.netlify.app/)
+
 
 ---
 
